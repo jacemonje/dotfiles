@@ -1,1 +1,1 @@
-# dotfiles
+# My dotfiles for trying out stuff so I'm always updated :)
